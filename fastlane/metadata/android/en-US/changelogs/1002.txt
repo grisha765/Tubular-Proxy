@@ -1,0 +1,7 @@
+[Tubular]
+
+Updated:
+• merged latest changes from NewPipe's dev branch
+Changed:
+• changed app name in the database export file (thanks @roryokane)
+• removed core.symlinks=false git config from CI (thanks @Mynacol)
